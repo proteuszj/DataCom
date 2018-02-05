@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <tcp>
+    <port>8899</port>
+    <maxconnections>15</maxconnections>
+  </tcp>
+  <database>
+    <dbip>6C8D21D970B8119F2C00E0D5FDAD6D48</dbip>
+    <dbport>E96CA03371C95BCF</dbport>
+    <dbsid>1F9471E95DCCBBCB</dbsid>
+    <dbuser>A209355EA0C77399</dbuser>
+    <dbpwd>9CD442732DF2CCB744D07633405A976A</dbpwd>
+    <maxconnections>10</maxconnections>
+    <connectiontimeout>5</connectiontimeout>
+  </database>
+  <mode>
+    <exammode>0</exammode>
+  </mode>
+</root>
